@@ -1,0 +1,7 @@
+{ 
+	"name": "Papou Plugin",
+	"description": "A very nice papou plugin",
+	"website": "test.com",
+	"version": "1.0",
+	"files_to_load":"null"
+}

@@ -1,0 +1,7 @@
+{ 
+	"name": "Plugin 2", 
+	"description": "2nd plugin",
+	"version": "2",
+	"website": "test.test.com",
+	"files_to_load": "null"
+}
